@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="691b7ad0-f436-49f7-ba37-5738012f377c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2RLbKILZLo1FIoKiP8rUZykkgla" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/dalia/OneDrive/Dokumente/GitHub/beispielfragen-pi2-klausur",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.IsRedBlackTreeTest">
+    <configuration name="IsRedBlackTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.IsRedBlackTreeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsRedBlackTreeTest.colorless" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.IsRedBlackTreeTest" />
+      <option name="METHOD_NAME" value="colorless" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsRedBlackTreeTest.emptyTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.IsRedBlackTreeTest" />
+      <option name="METHOD_NAME" value="emptyTree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsRedBlackTreeTest.rootcolor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.IsRedBlackTreeTest" />
+      <option name="METHOD_NAME" value="rootcolor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsRedBlackTreeTest.testRebalanceAfterDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.IsRedBlackTreeTest" />
+      <option name="METHOD_NAME" value="testRebalanceAfterDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IsRedBlackTreeTest.testRebalanceAfterDelete" />
+        <item itemvalue="JUnit.IsRedBlackTreeTest.emptyTree" />
+        <item itemvalue="JUnit.IsRedBlackTreeTest.rootcolor" />
+        <item itemvalue="JUnit.IsRedBlackTreeTest.colorless" />
+        <item itemvalue="JUnit.IsRedBlackTreeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="691b7ad0-f436-49f7-ba37-5738012f377c" name="Changes" comment="" />
+      <created>1687032249111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687032249111</updated>
+      <workItem from="1687420824024" duration="123000" />
+      <workItem from="1687420969902" duration="4866000" />
+      <workItem from="1687442805720" duration="317000" />
+      <workItem from="1687611535331" duration="2500000" />
+      <workItem from="1687688714262" duration="7583000" />
+      <workItem from="1701692025961" duration="3722000" />
+      <workItem from="1702460958826" duration="54000" />
+      <workItem from="1702461030598" duration="7000" />
+      <workItem from="1702461126589" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tree$IsRedBlackTreeTest_colorless.ic" NAME="IsRedBlackTreeTest.colorless Coverage Results" MODIFIED="1687692123155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Tree$IsRedBlackTreeTest_testIncorrectRedBlackTree.ic" NAME="IsRedBlackTreeTest.testIncorrectRedBlackTree Coverage Results" MODIFIED="1687612687206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Tree$IsRedBlackTreeTest_rootcolor.ic" NAME="IsRedBlackTreeTest.rootcolor Coverage Results" MODIFIED="1687692360692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Tree$IsRedBlackTreeTest_emptyTree.ic" NAME="IsRedBlackTreeTest.emptyTree Coverage Results" MODIFIED="1687692417096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Tree$IsRedBlackTreeTest.ic" NAME="IsRedBlackTreeTest Coverage Results" MODIFIED="1687692935143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Tree$IsRedBlackTreeTest_test.ic" NAME="IsRedBlackTreeTest.test Coverage Results" MODIFIED="1687421090228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Tree$IsRedBlackTreeTest_deleteRoot.ic" NAME="IsRedBlackTreeTest.deleteRoot Coverage Results" MODIFIED="1687611683934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+  </component>
+</project>

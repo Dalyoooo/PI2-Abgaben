@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7ff0b91-efc7-423f-ac1b-3568fcf53fc6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QiKaJtYZUvNdfXs93F5WD8hxz1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.SortTest">
+    <configuration name="SortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.SortTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTest.insertionSortTestDublicates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.SortTest" />
+      <option name="METHOD_NAME" value="insertionSortTestDublicates" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTest.quickSortSpecialCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.SortTest" />
+      <option name="METHOD_NAME" value="quickSortSpecialCases" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTest.testQuickSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.SortTest" />
+      <option name="METHOD_NAME" value="testQuickSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTest.testSelectPivot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.SortTest" />
+      <option name="METHOD_NAME" value="testSelectPivot" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SortTest.testQuickSort" />
+        <item itemvalue="JUnit.SortTest.insertionSortTestDublicates" />
+        <item itemvalue="JUnit.SortTest.testSelectPivot" />
+        <item itemvalue="JUnit.SortTest" />
+        <item itemvalue="JUnit.SortTest.quickSortSpecialCases" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7ff0b91-efc7-423f-ac1b-3568fcf53fc6" name="Changes" comment="" />
+      <created>1685831027761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685831027761</updated>
+      <workItem from="1685831028911" duration="5316000" />
+      <workItem from="1685836671115" duration="19000" />
+      <workItem from="1685836763427" duration="8414000" />
+      <workItem from="1686053154478" duration="3908000" />
+      <workItem from="1686083056614" duration="1549000" />
+      <workItem from="1686139913544" duration="6657000" />
+      <workItem from="1686147741926" duration="937000" />
+      <workItem from="1686225722270" duration="966000" />
+      <workItem from="1686227146958" duration="2088000" />
+      <workItem from="1686332701029" duration="6511000" />
+      <workItem from="1693230118678" duration="648000" />
+      <workItem from="1693818851111" duration="4112000" />
+      <workItem from="1701530190458" duration="5000" />
+      <workItem from="1701688916138" duration="3944000" />
+      <workItem from="1702056089418" duration="181000" />
+      <workItem from="1702460961512" duration="44000" />
+      <workItem from="1717278563397" duration="605000" />
+      <workItem from="1717280537523" duration="307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Sort$SortTest_quickSortTestDublicates.ic" NAME="SortTest.quickSortTestDublicates Coverage Results" MODIFIED="1686139991010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Sort$SortTest_swapTest.ic" NAME="SortTest.swapTest Coverage Results" MODIFIED="1686148551291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Sort$SortTest_insertionSortTestDublicates.ic" NAME="SortTest.insertionSortTestDublicates Coverage Results" MODIFIED="1686340903944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Sort$SortTest_testQuickSort.ic" NAME="SortTest.testQuickSort Coverage Results" MODIFIED="1686341033924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Sort$SortTest_testSelectPivot.ic" NAME="SortTest.testSelectPivot Coverage Results" MODIFIED="1686340446428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Sort$SortTest_insertionSortTestNormalArray.ic" NAME="SortTest.insertionSortTestNormalArray Coverage Results" MODIFIED="1686225021766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Sort$SortTest.ic" NAME="SortTest Coverage Results" MODIFIED="1686341184499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Sort$SortTest_selectPivotTestSpecialCases.ic" NAME="SortTest.selectPivotTestSpecialCases Coverage Results" MODIFIED="1686085632788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+  </component>
+</project>

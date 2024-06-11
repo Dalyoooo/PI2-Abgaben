@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="723fbede-7f31-4d4e-b329-5f9dbcf76632" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2PN89pqqlS4ejxoxXYvBcZXXf9y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.DoodlePPTest">
+    <configuration name="DoodlePPTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoodlePP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.DoodlePPTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoodlePPTest.backtrackToBeginning" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoodlePP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.DoodlePPTest" />
+      <option name="METHOD_NAME" value="backtrackToBeginning" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoodlePPTest.emptyInputStudents" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoodlePP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.DoodlePPTest" />
+      <option name="METHOD_NAME" value="emptyInputStudents" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoodlePPTest.remainingCapacity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoodlePP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.DoodlePPTest" />
+      <option name="METHOD_NAME" value="remainingCapacity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoodlePPTest.test5TutorialsOf10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoodlePP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.DoodlePPTest" />
+      <option name="METHOD_NAME" value="test5TutorialsOf10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DoodlePPTest" />
+        <item itemvalue="JUnit.DoodlePPTest.backtrackToBeginning" />
+        <item itemvalue="JUnit.DoodlePPTest.emptyInputStudents" />
+        <item itemvalue="JUnit.DoodlePPTest.test5TutorialsOf10" />
+        <item itemvalue="JUnit.DoodlePPTest.remainingCapacity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="723fbede-7f31-4d4e-b329-5f9dbcf76632" name="Changes" comment="" />
+      <created>1683286033280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683286033280</updated>
+      <workItem from="1683286033983" duration="6253000" />
+      <workItem from="1683366938090" duration="4309000" />
+      <workItem from="1683658585933" duration="90000" />
+      <workItem from="1683658696461" duration="12270000" />
+      <workItem from="1683718313760" duration="5173000" />
+      <workItem from="1683735522120" duration="11091000" />
+      <workItem from="1683808190219" duration="9506000" />
+      <workItem from="1683977293962" duration="7085000" />
+      <workItem from="1683985792395" duration="1762000" />
+      <workItem from="1684861629512" duration="4846000" />
+      <workItem from="1699566252499" duration="5000" />
+      <workItem from="1699902122444" duration="2518000" />
+      <workItem from="1700520689992" duration="1595000" />
+      <workItem from="1701785096705" duration="761000" />
+      <workItem from="1702404310094" duration="421000" />
+      <workItem from="1702404785806" duration="1307000" />
+      <workItem from="1702477336753" duration="1429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DoodlePP$DoodlePPTest_remainingCapacity.ic" NAME="DoodlePPTest.remainingCapacity Coverage Results" MODIFIED="1683740809785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DoodlePP$DoodlePPTest.ic" NAME="DoodlePPTest Coverage Results" MODIFIED="1683924306223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DoodlePP$DoodlePPTest_emptyInputStudents.ic" NAME="DoodlePPTest.emptyInputStudents Coverage Results" MODIFIED="1683922238717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DoodlePP$DoodlePPTest_test5TutorialsOf10.ic" NAME="DoodlePPTest.test5TutorialsOf10 Coverage Results" MODIFIED="1683922108857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DoodlePP$DoodlePPTest_tutorialEmpty.ic" NAME="DoodlePPTest.tutorialEmpty Coverage Results" MODIFIED="1683737682387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+  </component>
+</project>

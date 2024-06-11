@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04d9e045-d0f9-4166-a50f-7d9b1f4199ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Array.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Array.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/de/uni_bremen/pi2/Array$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/de/uni_bremen/pi2/Array$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/de/uni_bremen/pi2/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/de/uni_bremen/pi2/Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/de.uni_bremen.pi2/Array.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/de.uni_bremen.pi2/Array.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/mutations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/report/mutations.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OrUMC4Rw7wk4ESZnb89lWvAFO7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.ArrayTest">
+    <configuration name="ArrayTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.ArrayTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest.arrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.ArrayTest" />
+      <option name="METHOD_NAME" value="arrayTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest.iteratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.ArrayTest" />
+      <option name="METHOD_NAME" value="iteratorTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayMutation" type="PIT" factoryName="PIT Runner" REPORT_DIR="$PROJECT_DIR$/report" SOURCE_DIRS="$PROJECT_DIR$/src" TARGET_CLASSES="de.*" TARGET_TESTS="" otherParams="--outputFormats XML,HTML">
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ArrayTest" />
+      <item itemvalue="JUnit.ArrayTest.iteratorTest" />
+      <item itemvalue="JUnit.ArrayTest.arrayTest" />
+      <item itemvalue="PIT Runner.ArrayMutation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArrayTest.arrayTest" />
+        <item itemvalue="JUnit.ArrayTest.iteratorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04d9e045-d0f9-4166-a50f-7d9b1f4199ac" name="Changes" comment="" />
+      <created>1682318157490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682318157490</updated>
+      <workItem from="1682450749800" duration="121000" />
+      <workItem from="1682506141593" duration="1798000" />
+      <workItem from="1682511390010" duration="149000" />
+      <workItem from="1682512578688" duration="4209000" />
+      <workItem from="1682526156213" duration="2593000" />
+      <workItem from="1682528829339" duration="13224000" />
+      <workItem from="1682543976073" duration="137000" />
+      <workItem from="1682582557063" duration="315000" />
+      <workItem from="1682598215281" duration="95000" />
+      <workItem from="1682602651308" duration="2419000" />
+      <workItem from="1682675494128" duration="523000" />
+      <workItem from="1682676038498" duration="1461000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Array$ArrayTest.ic" NAME="ArrayTest Coverage Results" MODIFIED="1682538900101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+<<<<<<< HEAD
+    <SUITE FILE_PATH="coverage/Array$ArrayTest.ic" NAME="ArrayTest Coverage Results" MODIFIED="1682676061513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+=======
+    <SUITE FILE_PATH="coverage/Array$ArrayTest_arrayTest.ic" NAME="ArrayTest.arrayTest Coverage Results" MODIFIED="1682502527691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+>>>>>>> ded948425f51a6ea865e5c487c40d704ab02bfc3
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+  </component>
+</project>
